@@ -110,3 +110,5 @@ Temporary Items
 20141119(AMJoin+JBJoin)/AM_model_Project/targetConfigs/readme.txt
 20141119(AMJoin+JBJoin)/AM_model_Project/targetConfigs/Tiva TM4C129XNCZAD.ccxml
 >>>>>>> origin/master
+
+20141119(AMJoin+JBJoin)/AM_model_Project/Bus_Raw_Protocol/UART_PRINTF.c
