@@ -68,6 +68,22 @@ extern UInt8 macAddress[6];
 #define Socket_fail 	2
 #define Nothing			20
 
+/* TCP_UDP_network.h */
+
+//*****************************************************************************
+//
+//				 JB Join Data Protocol Packet - Number of Byte
+//
+//				 Author: dong Dong
+//				 Created on: 2014/12/8
+//*****************************************************************************
+#define PVPeriodicPKLength			488
+#define PVPeriodicResponsePKLength	??
+#define PVPeriodicCommand 			0x07
+#define PVPeriodicCommandPKTailCode	0x61
+#define PVPeriodicUpdatePeriod1		0x00
+#define PVPeriodicUpdatePeriod2		0x14
+
 //*****************************************************************************
 //
 // AM Header code - Number of Byte

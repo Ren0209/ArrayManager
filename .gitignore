@@ -42,6 +42,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+<<<<<<< HEAD
 20141119(AMJoin+JBJoin)/AM_model_Project/.xdchelp
 20141119(AMJoin+JBJoin)/AM_model_Project/Debug/AM_model.pp
 20141119(AMJoin+JBJoin)/AM_model_Project/.ccsproject
@@ -49,3 +50,63 @@ Temporary Items
 20141119(AMJoin+JBJoin)/AM_model_Project/.project
 20141119(AMJoin+JBJoin)/AM_model_Project/.settings/org.eclipse.cdt.codan.core.prefs
 20141119(AMJoin+JBJoin)/AM_model_Project/.settings/org.eclipse.cdt.debug.core.prefs
+=======
+*.sch
+*.ccsproject
+*.dat
+*.buildtime
+*.interfaces
+*.mak
+*.opt
+*.defs
+*.bld
+20141119(AMJoin+JBJoin)/AM_model_Project/.config/xconfig_AM_model/package.xdc
+*.xs
+*.vers_b160
+*.vers_g180
+*.vers_r170
+*.xdc-z57
+*.cfg
+*.xml
+*.dep
+20141119(AMJoin+JBJoin)/AM_model_Project/.config/xconfig_AM_model/package/package.defs.h
+*.inc
+20141119(AMJoin+JBJoin)/AM_model_Project/.config/xconfig_AM_model/package/package_xconfig_AM_model.c
+*.ninc
+*.ccs
+*.class
+*.java
+*.pjt
+*.xdc
+20141119(AMJoin+JBJoin)/AM_model_Project/.config/xconfig_tcpEcho/package/package.defs.h
+20141119(AMJoin+JBJoin)/AM_model_Project/.config/xconfig_tcpEcho/package/package_xconfig_tcpEcho.c
+*.cproject
+*.launch
+20141119(AMJoin+JBJoin)/AM_model_Project/.project
+*.prefs
+20141119(AMJoin+JBJoin)/AM_model_Project/.xdchelp
+20141119(AMJoin+JBJoin)/AM_model_Project/AM_LIB/EMACSnow.c
+20141119(AMJoin+JBJoin)/AM_model_Project/Board.h
+*.obj
+*.pp
+*.mk
+*.bin
+*.map
+*.out
+*.libraries,em4f
+*.cmd
+20141119(AMJoin+JBJoin)/AM_model_Project/Debug/configPkg/package/cfg/AM_model_pem4f.c
+*.dot
+20141119(AMJoin+JBJoin)/AM_model_Project/Debug/configPkg/package/cfg/AM_model_pem4f.h
+*.oem4f
+*.xdl
+20141119(AMJoin+JBJoin)/AM_model_Project/Debug/configPkg/package/package.defs.h
+20141119(AMJoin+JBJoin)/AM_model_Project/Debug/configPkg/package/package_configPkg.c
+20141119(AMJoin+JBJoin)/AM_model_Project/Debug/error_list
+20141119(AMJoin+JBJoin)/AM_model_Project/Debug/error_list.txt
+20141119(AMJoin+JBJoin)/AM_model_Project/Debug/makefile
+20141119(AMJoin+JBJoin)/AM_model_Project/DK_TM4C129X.c
+20141119(AMJoin+JBJoin)/AM_model_Project/DK_TM4C129X.h
+20141119(AMJoin+JBJoin)/AM_model_Project/targetConfigs/readme.txt
+20141119(AMJoin+JBJoin)/AM_model_Project/targetConfigs/Tiva TM4C129XNCZAD.ccxml
+>>>>>>> origin/master
