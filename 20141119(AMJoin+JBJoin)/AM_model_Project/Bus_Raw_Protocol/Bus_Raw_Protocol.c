@@ -17,6 +17,7 @@ Packet packet;
 int Bus_ID =0;
 char BUS_ID = 0;
 int Bus_ID_for_PV_Value =0;
+int a = 555;
 //------Member Table-------
 unsigned char Member_Talbe[20][256];
 //row0-row5->MAC
