@@ -78,7 +78,7 @@ extern UInt8 macAddress[6];
 //				 Created on: 2014/12/8
 //*****************************************************************************
 #define PVPeriodicPKLength			488
-#define PVPeriodicResponsePKLength	??
+#define PVPeriodicResponsePKLength	33
 #define PVPeriodicCommand 			0x07
 #define PVPeriodicCommandPKTailCode	0x61
 #define PVPeriodicUpdatePeriod1		0x00
